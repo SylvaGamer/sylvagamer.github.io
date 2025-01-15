@@ -2,7 +2,7 @@
 /* Body */
 body {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	background-color: #FFFFFF;
+	background-color: #121212;
 	margin: 0;
 }
 /* Container */
@@ -10,7 +10,7 @@ body {
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #FFFFFF;
+	background-color: #121212;
 }
 /* Header */
 header {
@@ -31,7 +31,7 @@ header {
 	font-size: 22px;
 }
 .hero_header {
-	color: #FFFFFF;
+	color: #121212;
 	text-align: center;
 	margin: 0;
 	letter-spacing: 4px;
@@ -51,7 +51,7 @@ header {
 	clear: both;
 	display: inline-block;
 	width: 100%;
-	background-color: #FFFFFF;
+	background-color: #121212;
 	/* [disabled]min-width: 400px;
 */
 	padding-bottom: 35px;
@@ -64,31 +64,31 @@ header {
 	text-align: center;
 	float: left;
 	margin-top: 35px;
-	background-color: #F8F8F8;
+	background-color: #666666;
 	padding-bottom: 20px;
 	margin-left: 1%;
 	margin-right: 1%;
 	border-radius: 3px;
 	padding-top: 20px;
-	border-bottom: 4px solid #6DC7D0;
+	border-bottom: 4px solid #CCB5FF;
 }
 .gallery .thumbnail h4 {
 	margin-top: 5px;
 	margin-bottom: 5px;
-	color: #52BAD5;
+	color: #CCB5FF;
 	text-align: left;
 	padding-left: 20px;
 	padding-right: 20px;
 }
 .gallery .thumbnail p {
 	margin: 0;
-	color: #B3B3B3;
+	color: #FFFFFF;
 	text-align: left;
 	padding-left: 20px;
 }
 /* More info */
 .intro {
-	background-color: #FFFFFF;
+	background-color: #121212;
 	padding-bottom: 35px;
 }
 .column {
@@ -98,10 +98,10 @@ header {
 	float: left;
 }
 .intro .column h3 {
-	color: #FFFFFF;
+	color: #121212;
 	text-align: center;
 }
-.intro .column p {
+.intro p {
 	color: #FFFFFF;
 }
 .cards {
@@ -138,13 +138,13 @@ header {
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 2px;
-	border: 3px solid #FFFFFF;
-	color: #FFFFFF;
+	border: 3px solid #121212;
+	color: #121212;
 	transition: all 0.3s linear;
 }
 .button:hover {
 	background-color: #6DC7D0;
-	color: #FFFFFF;
+	color: #121212;
 	cursor: pointer;
 }
 .copyright {
@@ -152,7 +152,7 @@ header {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	background-color: #717070;
-	color: #FFFFFF;
+	color: #121212;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 2px;
@@ -165,13 +165,13 @@ footer {
 }
 .intro {
 	display: inline-block;
-	background-color: #6DC7D0;
+	background-color: #AF84E5;
 }
 .profile {
 	width: 50%;
 }
 .gallery .thumbnail .tag {
-	color: #5D5E5D;
+	color: #B0B0B0;
 	padding-bottom: 4px;
 	padding-top: 4px;
 	text-align: left;
